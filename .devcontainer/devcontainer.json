@@ -1,0 +1,13 @@
+{
+	"name": "Default Linux Universal",
+	"image": "mcr.microsoft.com/devcontainers/java:latest",
+	"features": {
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"redhat.java"
+			]
+		}
+	}
+}
