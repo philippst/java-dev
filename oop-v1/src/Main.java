@@ -1,8 +1,11 @@
+/**
+ * Main Klasse zur Ausführung des Programms mit Beispielen zur Erstellung von Auto Objekten.
+ */
 public class Main {
 
     /**
-     * Die main Methode ermöglicht die Ausführung des Programmes.
-     * Sie ist der Einstieg für die Java Runtime um das Programm zustarten.
+     * Die main Methode ermöglicht die Ausführung des Programmes. Sie stellt den Einstiegspunkt in die Ausführung der
+     * Java-Anwendung dar und muss die Signatur `public static void main(String[] args)` besitzen.
      */
     public static void main(String[] args) {
 
