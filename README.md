@@ -6,8 +6,11 @@ Die Ordner enhalten jeweils eine Datei `README.md` mit einer Erläuterung der Be
 (Abkürzung für Source) mit dem Quelltext des Java Programms.
 
 ## Inhalte
-* [Beispiel zur Deklarierung von Arrays](array-beispiel)
-* [Objektorientiertes Auto Beispiel: Version 1](oop-v1)
+| Ordner                           | Beschreibung                                  |
+|----------------------------------|-----------------------------------------------|
+| [array-beispiel](array-beispiel) | Nutzung von Arrays als Datenstruktur          |
+| [oop-v1](oop-v1)                 | Objektorientiertes Auto: Initiale Version     |
+| [oop-v2](oop-v2)                 | Objektorientiertes Auto: Konstruktor Methoden |
 
 ## Download des Quelltextes
 Über den Button [**Code**](https://github.com/philippst/java-dev/archive/refs/heads/main.zip) (rechts oben) können Sie 

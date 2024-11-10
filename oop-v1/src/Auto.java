@@ -4,11 +4,15 @@
  */
 public class Auto {
 
+    /* Ab hier werden Attribute dieser Klasse definiert */
+
     public String farbe;
     public String marke;
     public String kennzeichen;
     public int kmStand;
     public int erstzulassungJahr;
+
+    /* Ab hier werden Methoden dieser Klasse definiert */
 
     public void fahren(){
         System.out.println("Das Auto fährt ...");
