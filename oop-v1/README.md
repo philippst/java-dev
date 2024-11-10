@@ -22,16 +22,3 @@ classDiagram
         +beschreiben() void
     }
 ```
-
-### Kompilierung & Ausführung
-Wechseln Sie zunächst in das Programmverzeichnis `/oop-version1/src/`, um das Programm mit Java zu kompilieren und
-im Anschluss auszuführen. Sollten Sie eine IDE, z.B. IntelliJ, nutzen, können Sie direkt in der Klasse Main das
-Programm starten.
-
-```
-// Alle Java Dateien in diesem Verzeichnis werden kompiliert
-javac *.java 
-
-// Die kompilierte Java Klasse Main wird ausführen
-java Main
-```
