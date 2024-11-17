@@ -28,4 +28,5 @@ classDiagram
         +hupen() void
         +beschreiben() void
     }
+    Main ..> Auto: uses
 ```
